@@ -1,4 +1,4 @@
-## Hola 👋
+## 👋 Hola
 
 <div align="center"><a href="https://arenal.dev"><img src="./volcano.webp" alt="arenal.dev" /> </a> </div>
 
@@ -11,7 +11,7 @@
 <img src="./GradientLine.gif" align="center" style="width: 100%"/>
 </div>
 
-## Experience 🧑🏻‍💻
+## 🧑🏻‍💻 Experience
 
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,nodejs,sass,mysql,bootstrap,tailwindcss,astro,react,nextjs,flask,django,jquery,bash,vscode,pycharm,androidstudio,firebase,wordpress,git,postman,netlify,docker,windows,linux,ubuntu&perline=16" alt="Languages" />
 
@@ -27,7 +27,7 @@
 </div>
 
 
-## Connect with me 🌎
+## 🌎 Connect with me 
 <div align="center">
 <a href="https://github.com/willdrr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -42,13 +42,13 @@
   
 <br/>  
 
-
+## 👀 Visits
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=willdrr&&style=flat-square" align="center" />
 </div>  
 <br/> 
 
-<!-- buy me coffee -->
+## ☕ Buy me a coffee
 <div align="center">
   <a href="https://www.buymeacoffee.com/wild3r" target="_blank" style="display: inline-block;">
       <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
