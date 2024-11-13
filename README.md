@@ -3,7 +3,8 @@
 <a href="https://arenal.dev"> <div style="display:flex;justify-content:center;align-items:center;"> <img src="./volcano.webp" align="center" style="width: 50%; height: 50%;" alt="arenal.dev" /> </div> </a>
 
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8BHello%2C+World!%2F%3E;%3C%F0%9F%91%8BAyubowan%2C+World!%2F%3E;%3C%F0%9F%91%8BHola%2C+World!%2F%3E;%3C%F0%9F%91%8BN%C7%90+h%C7%8Eo%2C+World!%2F%3E;%3C%F0%9F%91%8BCiao%2C+World!%2F%3E;%3C%F0%9F%91%8BNamasthe%2C+World!%2F%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8BHi%2C+there!%2F%3E;%3C%F0%9F%91%8BHow%27s+it+going?%2F%3E;%3C%F0%9F%91%8BGood+to+see+you!%2F%3E;%3C%F0%9F%91%8BHope+you%27re+doing+well!%2F%3E;%3C%F0%9F%91%8BWishing+you+a+pleasant+day!%2F%3E;%3C%F0%9F%91%8BTake+care%2C+friend!%2F%3E" alt="Typing SVG" />
+</a>
 
 <div align="center">
 <img src="./GradientLine.gif" align="center" style="width: 100%"/>
