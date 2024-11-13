@@ -3,7 +3,8 @@
 <div align="center"><a href="https://arenal.dev"><img src="./volcano.webp" alt="arenal.dev" /> </a> </div>
 
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8BHi%2C+there!%2F%3E;%3C%F0%9F%91%8BHow%27s+it+going?%2F%3E;%3C%F0%9F%91%8BGood+to+see+you!%2F%3E;%3C%F0%9F%91%8BHope+you%27re+doing+well!%2F%3E;%3C%F0%9F%91%8BWishing+you+a+pleasant+day!%2F%3E;%3C%F0%9F%91%8BTake+care%2C+friend!%2F%3E" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=3&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8B%21Espero+que+est%C3%A9s+teniendo+un+buen+d%C3%ADa%21%2F%3E" alt="Typing SVG" />
+
 </a>
 
 <div align="center">
