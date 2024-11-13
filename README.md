@@ -17,6 +17,16 @@
 
 <br/> 
 
+## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=willdrr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="willdrr's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=willdrr&theme=tokyonight&hide_border=true" alt="willdrr's Streak" height="165">
+  </p>
+</div>
+
+
 ## Connect with me 🌎
 <div align="center">
 <a href="https://github.com/willdrr" target="_blank">
