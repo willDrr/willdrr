@@ -7,13 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=3&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8B%21Que+est%C3%A9+bien%21%2F%3E;%3C%F0%9F%91%8BHope+you're+well%21%2F%3E" alt="Typing SVG" />
 </a>
 
-<div align="center">
-<img src="./GradientLine.gif" align="center" style="width: 100%"/>
-</div>
-
 ## 🧑🏻‍💻 Experience
 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,nodejs,sass,mysql,bootstrap,tailwindcss,astro,react,nextjs,flask,django,jquery,bash,vscode,pycharm,androidstudio,firebase,wordpress,git,postman,netlify,docker,windows,linux,ubuntu&perline=16" alt="Languages" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,nodejs,sass,mysql,bootstrap,tailwindcss,astro,react,nextjs,flask,django,jquery,bash,vscode,pycharm,firebase,wordpress,git,postman,netlify,docker,windows,linux,ubuntu&perline=16" alt="Languages" />
 
 <br/> 
 
